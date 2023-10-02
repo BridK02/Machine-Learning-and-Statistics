@@ -2,11 +2,11 @@
 
 Course work for ATU Data Analytics module Machine Learning and Statistics by Brid Kennedy.
 
-This is my project
+This is my project and task notebooks
 
 ***
 
-This is a list
+
 
 1. One
 2. Two
